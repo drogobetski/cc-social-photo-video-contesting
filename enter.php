@@ -1,7 +1,7 @@
 <?php
 include 'lib/base.inc.php';
 include 'lib/utility.class.php';
-$u = new Utility();
+//$u = new Utility();
 
 $step=1; 
 
